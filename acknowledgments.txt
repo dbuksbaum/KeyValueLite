@@ -1,0 +1,5 @@
+The KeyValueLite project is making use of the following OSS projects:
+
+* SQLite (http://www.sqlite.org/) - is in Public Domain : http://www.sqlite.org/copyright.html
+* sqlite-net [forked branch] (https://github.com/dbuksbaum/sqlite-net) - license: https://github.com/dbuksbaum/sqlite-net/blob/master/license.md
+
