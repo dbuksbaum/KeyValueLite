@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/dbuksbaum/KeyValueLite</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First version. Works with SQLite 3.8.8.3 x86.</releaseNotes>
+    <copyright>Copyright © David Buksbaum 2015</copyright>
+    <tags>KeyValue KV SQLite Data</tags>
+    <dependencies />
+    <language>en-US</language>
+  </metadata>
+</package>
+
